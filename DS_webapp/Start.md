@@ -1,5 +1,5 @@
 ### Run following command to view project
-```python
+```bash
 streamlit run app.py
 ```
 
