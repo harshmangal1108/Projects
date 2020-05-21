@@ -1,5 +1,5 @@
 #### Docker Project
-- ### This project is final project under training by ***IIEC-Rise*** Community
+- ### This project is final project under initiative  ***IIEC-Rise*** and training by *Mr. Vimal Daga*
 #### About Project
 - This project is about visualization of Docker Resource Consumption in System
 1. It will launch 100 Containers in Linux System.
