@@ -1,7 +1,6 @@
 #### Docker Project
-- ### This project is final project under initiative  ***IIEC-Rise*** and training by *Mr. Vimal Daga*
 #### About Project
-- This project is about visualization of Docker Resource Consumption in System
+- This project is about visualization of Resource Consumption by Docker Containers in System
 1. It will launch 100 Containers in Linux System.
 2. It will use `docker stats` command to check resource consumption and final output after manipulating it with advanced linux command ***sed*** the output will be stored in ***.csv*** file
 3. The ***.csv*** file will be used in ***Python*** program using ***Pandas Module***.
